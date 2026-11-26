@@ -1,2 +1,2 @@
 > [!TIP]
-> Часть данных и расчётов хранится в [диалоге с нейросетью](https://chat.deepseek.com/share/b8c4bjycqm72eavdb1).
+> Мини-коды для ручного редактирования сценариев можно найти в [диалоге с нейросетью](https://chat.deepseek.com/share/b8c4bjycqm72eavdb1).
